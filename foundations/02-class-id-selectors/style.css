@@ -1,0 +1,25 @@
+.red {
+  color: black;
+  background-color: pink;
+}
+
+.font {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.big {
+  font-size: 32px;
+}
+
+#id1 {
+  font-size: 46px;
+  background-color: white;
+  color: blue;
+}
+
+#id2 {
+  font-weight: 700;
+  color: black;
+  background-color: lightgreen;
+  font-size: 32px;
+}
